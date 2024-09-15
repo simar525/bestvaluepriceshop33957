@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://lordeandbelle.com/?ref=seanchao.brand@gmail.com&redirect=1/$1"
+ }
+  ]
+}
